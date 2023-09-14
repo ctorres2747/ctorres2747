@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+Data+Scientis!)](https://git.io/typing-svg)
+</br>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 👋 I'm Cristhian, a data scientist and mechanical engineer with a passion for numbers, science, and technology. 📊🔬💻 I've honed my skills in the field of data science to craft practical solutions for various industrial and service sectors. 🛠️ Let's dive into the data-driven world together! 🚀
 
