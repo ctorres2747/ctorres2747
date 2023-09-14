@@ -6,8 +6,8 @@
 </p>
 
 
-🔭 Currently, I'm immersed in personal projects, exploring the application of machine learning to supply chain optimization.
-🌱 Always in learning mode, I'm currently delving into the offerings of various cloud vendors.
-👯 I'm on the lookout for exciting collaboration opportunities on any interesting project.
-💬 Feel free to ask me anything; I'm here to share knowledge and ideas!
-📫 You can reach out to me at [insert your contact information here]. Let's connect and innovate together! 📩🤝
+- 🔭 Currently, I'm immersed in personal projects, exploring the application of machine learning to supply chain optimization.
+- 🌱 Always in learning mode, I'm currently delving into the offerings of various cloud vendors.
+- 👯 I'm on the lookout for exciting collaboration opportunities on any interesting project.
+- 💬 Feel free to ask me anything; I'm here to share knowledge and ideas!
+- 📫 You can reach out to me at [insert your contact information here]. Let's connect and innovate together! 📩🤝
