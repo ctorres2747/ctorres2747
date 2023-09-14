@@ -14,4 +14,4 @@
   
 - 💬 Feel free to ask me anything; I'm here to share knowledge and ideas!
   
-- 📫 You can reach out to me at [insert your contact information here]. Let's connect and innovate together! 📩🤝
+- 📫 You can reach out to me at [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](www.linkedin.com/in/cristhian-torres-c1a2t3v). Let's connect and innovate together! 📩🤝
